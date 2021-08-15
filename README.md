@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A front-end web developer </></h3>
 
-- 👨‍💻 All of my projects are available at [http://apps.alinaseri.net](apps.alinaseri.net)
+- 👨‍💻 All of my projects are available at <a href="https://apps.alinaseri.net" target="blank">apps.alinaseri.net</a>
 
 - 📫 How to reach me **moa.naseri@gmail.com**
 
