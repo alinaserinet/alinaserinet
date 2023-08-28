@@ -1,9 +1,10 @@
 Hi there 👋
+
 I am a computer lover so try to be good with them;
 
 My favorites: 
 + Front-End Development;
-+ Basic Data Structures and Algorithems;
++ Basic Data Structures and algorithms;
 + Machine Learning;
 + Mathematics especially Linear Algebra;
 
