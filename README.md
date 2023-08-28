@@ -5,7 +5,7 @@ I am a computer lover, so try to be good with them;)
 
 🌱 I’m currently learning **Front-End Development, Data Structures, and Applied Mathematics**
 
-💬 Ask me about **JavaScript, React.js, Data Structures**
+💬 Ask me about **JavaScript, React.js, and Data Structures**
 
 Contact me via LinkedIn: 	[@alinaserinet](https://www.linkedin.com/in/alinaserinet)
 
