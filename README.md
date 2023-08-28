@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a computer lover so try to be good with them;
+I am a computer lover so I try to be good with them;
 
 My favorites: 
 + Front-End Development;
