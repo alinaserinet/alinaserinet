@@ -1,4 +1,4 @@
-Hi there 👋, I'm Ali
+Hey there 👋, I'm Ali
 
 I am a computer lover, so try to be good with them;)
 <hr />
