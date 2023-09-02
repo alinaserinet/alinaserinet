@@ -11,9 +11,9 @@ Contact me via LinkedIn: 	[@alinaserinet](https://www.linkedin.com/in/alinaserin
 
 <hr />
 
-My Favorites: 
+Interests: 
 + Front-End Development;
-+ Basic Data Structures and algorithms;
++ Basic Data Structures and Algorithms;
 + Machine Learning;
 + Mathematics especially Linear Algebra;
 
