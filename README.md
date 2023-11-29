@@ -1,6 +1,6 @@
 Hey there 👋, I'm Ali
 
-I am a computer lover, so try to be good with them;)
+A front-end web developer focused on React and TypeScript.
 <hr />
 
 🌱 I’m currently learning **Front-End Development, Data Structures, and Applied Mathematics**
