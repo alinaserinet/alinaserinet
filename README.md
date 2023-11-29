@@ -1,6 +1,6 @@
 Hey there 👋, I'm Ali
 
-A front-end web developer focused on React and TypeScript.
+A front-end web developer focused on **ReactJS** and **TypeScript**.
 <hr />
 
 🌱 I’m currently learning **Front-End Development, Data Structures, and Applied Mathematics**
